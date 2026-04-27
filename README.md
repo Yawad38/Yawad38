@@ -27,8 +27,8 @@ I am an **Informatics Student** focused on the convergence of **Artificial Intel
 ---
 
 ### 📊 GitHub Statistics
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yawad38&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yawad38&layout=compact&theme=radical)
 
 ---
 
