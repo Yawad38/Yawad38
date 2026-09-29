@@ -22,7 +22,6 @@ I am an **Informatics Student** focused on the convergence of **Artificial Intel
 ### 🏗️ Current Projects & Learning
 * **CyAI Insight:** Building a personal brand to document the bridge between AI and Security.
 * **Home Lab:** Configuring isolated environments for ethical hacking practice.
-* **Sentiment Analysis:** Implementing Naive Bayes and TF-IDF for data mining projects.
 
 ---
 
