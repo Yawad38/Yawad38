@@ -1,4 +1,4 @@
-# 🛡️ Muhammad Yawad Arrahman | Cybersecurity & AI Explorer
+# 🛡️ Muhammad Yawad Arrahman | Cybersecurity & AI Explorer LARP
 
 I am an **Informatics Student** focused on the convergence of **Artificial Intelligence** and **Cybersecurity**. I specialize in identifying how AI can automate threat detection and how security principles can be applied to protect intelligent systems.
 
